@@ -1,6 +1,6 @@
 # Angular_dia2
 Projeto desenvolvido no dia 2 da Maratona Stefanini 2020.
-*  Trabalhando com AngularJS
+# Trabalhando com AngularJS
 *  Controller/ ControllerAs
 *  Diretivas do AngularJs
 *  Definição de Escopo ($scope)
